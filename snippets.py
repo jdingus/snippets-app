@@ -2,6 +2,7 @@ import logging
 import csv
 import argparse
 import sys # Access argv variable
+import os.path
 
 # Set the log output file, and the log level
 logging.basicConfig(filename="output.log", level=logging.DEBUG)
@@ -19,20 +20,18 @@ def put(name, snippet, filename):
 
 def get(name, filename):
     """ Retrieve a snippet with an associated name in the csv file """
-    with open(filename,'r') as f:
-        reader = csv.reader(f)
-
-        for row in reader:
-            # snippet = row[1]            
-            if row[0] == name:
-                snippet = row[1]
-                print row[0] + ' * ' + snippet
-    return name, snippet, filename
-
-# get('hairy', 'snippets.csv')
-
-
-# raise SystemExit
+    snip_results = [] # List to store match results
+    if not os.path.isfile(filename):
+        print "**** " + filename + " ****" + " : " + "No File Found"
+        quit() 
+    
+    else:    
+        with open(filename,'r') as f:       # Add in exception if file does not exist
+            reader = csv.reader(f)
+            for row in reader:
+                if row[0] == name:
+                    snip_results.append(row[1])
+        return name, snip_results, filename
 
 def make_parser():
     """ Construct the command line parser """
@@ -68,7 +67,6 @@ def main():
     arguments = parser.parse_args(sys.argv[1:])
     # Convert parsed arguments from Namespace to dictionary
     arguments = vars(arguments)
-
     command = arguments.pop("command")
 
     if command == "put":
@@ -76,8 +74,14 @@ def main():
         print "Stored '{}' as '{}'".format(snippet, name)
 
     if command == "get":
-        name, snippet, filename = get(**arguments)
-        print "Retrieved items which match: '{}' from file: '{}' .".format(name, filename)
+        name, snip_results, filename = get(**arguments)
+
+        if snip_results: # If list isn't empty return items, otherwise return No Matches
+            print "Retrieved items which match: '{}' from file: '{}' .".format(name, filename)
+            for i in snip_results:
+                print name, ':', i
+        else:
+            print "No matches found"
 
 if __name__ == "__main__":
     main()
