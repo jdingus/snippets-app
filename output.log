@@ -1,0 +1,55 @@
+INFO:root:Writing spam:eggs to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Writing green eggs:ham to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting Snippets
+INFO:root:Constructing Parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing cronjob:ohyeah to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing spam:eggs to test.py
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful

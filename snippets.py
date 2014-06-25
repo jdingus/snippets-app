@@ -18,33 +18,39 @@ def put(name, snippet, filename):
 	return name, snippet
 
 def make_parser():
-	""" Construct the command line parser """
-	logging.info("Constructing Parser")
-	description = "Store and retrieve snippets of text"
-	parser = argparse.ArgumentParser(description=description)
+    """ Construct the command line parser """
+    logging.info("Constructing parser")
+    description = "Store and retrieve snippets of text"
+    parser = argparse.ArgumentParser(description=description)
 
-	subparsers = parser.add_subparsers(help="Available commands")
+    subparsers = parser.add_subparsers(help="Available commands")
 
-	# Subparser for the put command
-	logging.debug("Constructing put subparser")
-	put_parser = subparsers.add_parser("put", help="Store a snippet")
-	put_parser.add_argument("name", help="The name of the snippet")
-	put_parser.add_argument("snippet", help="The snippet text")
-	put_parser.add_argument("filename", default="snippets.csv", nargs="?", help="The snippet filename")
-	put_parser.set_defaults(command="put")
+    # Subparser for the put command
+    logging.debug("Constructing put subparser")
+    put_parser = subparsers.add_parser("put", help="Store a snippet")
+    put_parser.add_argument("name", help="The name of the snippet")
+    put_parser.add_argument("snippet", help="The snippet text")
+    put_parser.add_argument("filename", default="snippets.csv", nargs="?",
+                            help="The snippet filename")
+    put_parser.set_defaults(command="put")
 
-	return parser
+    return parser
 
 def main():
-	""" Main Function """
-	logging.info("Starting Snippets")
-	parser = make_parser()
-	arguments = parser.parse_args(sys.argv[1:])
+    """ Main function """
+    logging.info("Starting snippets")
+    parser = make_parser()
+    arguments = parser.parse_args(sys.argv[1:])
+    # Convert parsed arguments from Namespace to dictionary
+    arguments = vars(arguments)
+    command = arguments.pop("command")
+
+    if command == "put":
+        name, snippet = put(**arguments)
+        print "Stored '{}' as '{}'".format(snippet, name)
 
 if __name__ == "__main__":
-	main()
-
-
+    main()
 
 
 
