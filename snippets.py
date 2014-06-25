@@ -17,6 +17,19 @@ def put(name, snippet, filename):
 	logging.debug("Write sucessful")
 	return name, snippet
 
+def get(name, filename):
+    """ Retrieve a snippet with an associated name in the csv file """
+    with open('snippets.csv','r') as f:
+        reader = csv.reader(f)
+        for row in reader:            
+            if row[0] == name:
+                print row[0] + ' : ' + row[1]
+
+get('hairy', 'snippets.csv')
+
+
+raise SystemExit
+
 def make_parser():
     """ Construct the command line parser """
     logging.info("Constructing parser")
