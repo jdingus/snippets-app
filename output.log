@@ -60,3 +60,335 @@ INFO:root:Writing hairy:dog to snippets.csv
 DEBUG:root:Opening file
 DEBUG:root:Writing snippet to file
 DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing hairier:dog to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing more_stuff:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Writing even_more_stuff:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff2:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff3:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff3:snippets.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff3:snippets2.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing even_more_stuff3:snippets2.csv to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing Paul:Is_an_Offut to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing Paul:Still_Is_an_Offut to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing Paul:is_not_an_offutt to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Writing Paul:is_not_an_offutt to snippets2.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write sucessful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+DEBUG:root:Constructing get subparser
